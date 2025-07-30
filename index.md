@@ -7,9 +7,10 @@
 
 1. [Portfolio](#portfolio)
    1. [Feature project](#feature-project)
-   1. [Category Name 2](#category-name-2)
+   1. [More projects](#more-projects)
 
 </details>
+
 ## Portfolio
 
 ---
@@ -30,6 +31,7 @@
 [🚴Boston Blue Bike Stations dashboard](https://sujiatong.github.io/Boston_bike_dashboard/boston_bike/index.html)  
 
 📍 Tools: JavaScript (Leaflet.js)
+
 📊 Summary: Built an interactive map to analyze Boston’s bike-sharing network.
 
 <img src="images/boston_bike.png?raw=true" width="400"/>
@@ -45,14 +47,26 @@
 
 ---
 
-### Category Name 2
+[Utility Data Modeling](https://sujiatong.github.io/MUSA-Praticum-Jiatong/dashboard/index.html)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+📍 Tools:  JavaScript (Leaflet.js)
 
+📊 Summary: Visualizing utility disconnection estimate across different counties.
+
+<img src="images/utility.png" width="500"/>
+
+
+
+### More projects
+
+- [Utility Data Modeling](https://github.com/sujiatong/MUSA-Praticum-Jiatong?tab=readme-ov-file)
+  
+- [Historical world boundaries](https://sujiatong.github.io/engagement_project/frontend/index.html)
+- [LLMS for Sentiment Analyzing and image resoning](https://github.com/sujiatong/Final-project-MUSA-6950)
+- [Story Map of Metro between LA and DC](https://sujiatong.github.io/story_map_project/jiatong%20su/)
+- [Collisions in Central West District In Hong Kong](https://sujiatong.github.io/30DayMap-Jiatong/day4_hext/day_4.html)
+
+- [Territorial changes of the Qing Dynasty](https://sujiatong.github.io/30DayMap-Jiatong/day12/day12.html)
 ---
 
 
