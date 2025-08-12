@@ -5,9 +5,10 @@
 
    <summary>Contents</summary>
 
-1. [Portfolio](#portfolio)
-   1. [Feature project](#feature-project)
-   1. [More projects](#more-projects)
+- [Table of Contents](#table-of-contents)
+- [Portfolio](#portfolio)
+  - [Feature project](#feature-project)
+  - [More projects](#more-projects)
 
 </details>
 
