@@ -11,13 +11,12 @@
 
 </details>
 
-## Portfolio
 
----
+## Portfolio
 
 ### Feature project
 
-
+---
 [Forecast Metro train delays in and around NYC](https://sujiatong.github.io/Forecast_Metro_train_delays/ppa_final.html)
 
 📍 Tools: R (regression, clustering)
