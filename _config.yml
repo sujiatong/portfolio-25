@@ -1,11 +1,13 @@
 title: Jiatong Su # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/IMG_3083.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Master of Urban Spatial Analytic’25 at UPenn
   <br><br>
-  Second description 
+  I am passionate about utilizing spatial analysis to examine real-world problems, 
+  from environmental monitoring, and pubilc policy.
+
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jiatong-su-415b71216">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
