@@ -55,7 +55,7 @@
 
 <img src="images/utility.png" width="500"/>
 
-
+---
 
 ### More projects
 
@@ -65,11 +65,8 @@
 - [Story Map of Metro between LA and DC](https://sujiatong.github.io/story_map_project/jiatong%20su/)
 - [Territorial changes of the Qing Dynasty](https://sujiatong.github.io/30DayMap-Jiatong/day12/day12.html)
 - [Collisions in Central West District In Hong Kong](https://sujiatong.github.io/30DayMap-Jiatong/day4_hext/day_4.html)
----
 
 
 
-
----
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
