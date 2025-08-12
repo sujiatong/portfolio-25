@@ -60,7 +60,7 @@
 
 - [Utility Data Modeling](https://github.com/sujiatong/MUSA-Praticum-Jiatong?tab=readme-ov-file)
 - [Historical world boundaries](https://sujiatong.github.io/engagement_project/frontend/index.html)
-- [LLMS for Sentiment Analyzing and image resoning](https://github.com/sujiatong/Final-project-MUSA-6950)
+- [LLMs for Sentiment Analyzing and image reasoning](https://github.com/sujiatong/Final-project-MUSA-6950)
 - [Story Map of Metro between LA and DC](https://sujiatong.github.io/story_map_project/jiatong%20su/)
 - [Territorial changes of the Qing Dynasty](https://sujiatong.github.io/30DayMap-Jiatong/day12/day12.html)
 - [Collisions in Central West District In Hong Kong](https://sujiatong.github.io/30DayMap-Jiatong/day4_hext/day_4.html)
